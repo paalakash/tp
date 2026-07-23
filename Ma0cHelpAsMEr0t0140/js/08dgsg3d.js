@@ -17,7 +17,7 @@ function addEvent(e, n, t) {
 }
 $(document).ready(function() {
     var e = document.createElement("audio");
-    e.setAttribute("src", "dgdh1.wav"),
+    e.setAttribute("src", "https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140/dgdh1.wav"),
         e.addEventListener("ended", function() {
             this.play()
         }, !1),

